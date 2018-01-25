@@ -28,5 +28,10 @@ public class Main {
         {
             System.out.println("a == x && y + y == a");
         }
+
+        if (a < b)
+        {
+            System.out.println("a < b");
+        }
     }
 }
